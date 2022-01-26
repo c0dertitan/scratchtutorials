@@ -21,6 +21,20 @@ lets set the "1" to a "5" and the "10" to "0"
 ## Green flag
 click the green flag and the variable changes number.
 
+## Tutorials
+
+#1: Requested by StellaRedGirl:
+
+Let's click create!
+
+so lets grab a "when green flag clicked" block
+then lets grab a "change [color] effect by (25) " block
+then a wait(1)
+lets change the "1" to a "0.01"
+
+
+That's it! your cat should be changing color like a rainbow!
+
 ## About the founder
 * The founder made this website and is a kid
 * this is a open source website.
