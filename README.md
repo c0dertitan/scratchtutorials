@@ -33,6 +33,7 @@ then a wait(1)
 lets change the "1" to a "0.01"
 
 
+
 That's it! your cat should be changing color like a rainbow!
 
 ## About the founder
