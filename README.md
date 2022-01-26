@@ -31,7 +31,7 @@ so lets grab a "when green flag clicked" block
 then lets grab a "change [color] effect by (25) " block
 then a wait(1)
 lets change the "1" to a "0.01"
-
+and lets put it in a loop.
 
 
 That's it! your cat should be changing color like a rainbow!
