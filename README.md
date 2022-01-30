@@ -37,7 +37,7 @@ and lets put it in a loop.
 That's it! your cat should be changing color like a rainbow!
 
 ## About the founder
-* The founder made this website and is a kid
+* The founder made this website will not reveal his age
 * this is a open source website.
 
 * Source: [Github](https://www.github.com)
